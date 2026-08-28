@@ -55,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/PankajShejul/leetcode/tree/master/0326-power-of-three) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PankajShejul/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/PankajShejul/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/PankajShejul/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0326-power-of-three](https://github.com/PankajShejul/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
