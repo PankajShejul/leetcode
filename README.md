@@ -63,4 +63,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/PankajShejul/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/PankajShejul/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/PankajShejul/leetcode/tree/master/0326-power-of-three) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PankajShejul/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PankajShejul/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PankajShejul/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PankajShejul/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
