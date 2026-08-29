@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PankajShejul/leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/PankajShejul/leetcode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PankajShejul/leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/PankajShejul/leetcode/tree/master/0326-power-of-three) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PankajShejul/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Recursion
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/PankajShejul/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/PankajShejul/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PankajShejul/leetcode/tree/master/0404-sum-of-left-leaves) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PankajShejul/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
