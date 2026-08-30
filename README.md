@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PankajShejul/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/PankajShejul/leetcode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/PankajShejul/leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/PankajShejul/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/PankajShejul/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PankajShejul/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PankajShejul/leetcode/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/PankajShejul/leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/PankajShejul/leetcode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -122,9 +124,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/PankajShejul/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PankajShejul/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/PankajShejul/leetcode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/PankajShejul/leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/PankajShejul/leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PankajShejul/leetcode/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/PankajShejul/leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/PankajShejul/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
