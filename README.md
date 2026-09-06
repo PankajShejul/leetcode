@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/PankajShejul/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PankajShejul/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/PankajShejul/leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/PankajShejul/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/PankajShejul/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PankajShejul/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PankajShejul/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/PankajShejul/leetcode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/PankajShejul/leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/PankajShejul/leetcode/tree/master/0326-power-of-three) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PankajShejul/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
