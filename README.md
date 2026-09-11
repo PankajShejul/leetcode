@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/PankajShejul/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/PankajShejul/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/PankajShejul/leetcode/tree/master/0047-permutations-ii) |
+| [0055-jump-game](https://github.com/PankajShejul/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/PankajShejul/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PankajShejul/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/PankajShejul/leetcode/tree/master/0198-house-robber) |
@@ -47,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/PankajShejul/leetcode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/PankajShejul/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/PankajShejul/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/PankajShejul/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PankajShejul/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/PankajShejul/leetcode/tree/master/0198-house-robber) |
