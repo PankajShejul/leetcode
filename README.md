@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PankajShejul/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/PankajShejul/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/PankajShejul/leetcode/tree/master/0213-house-robber-ii) |
+| [0216-combination-sum-iii](https://github.com/PankajShejul/leetcode/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/PankajShejul/leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/PankajShejul/leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/PankajShejul/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/PankajShejul/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/PankajShejul/leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/PankajShejul/leetcode/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/PankajShejul/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/PankajShejul/leetcode/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
