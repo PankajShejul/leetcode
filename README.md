@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/PankajShejul/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/PankajShejul/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/PankajShejul/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PankajShejul/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/PankajShejul/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/PankajShejul/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/PankajShejul/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PankajShejul/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/PankajShejul/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/PankajShejul/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/PankajShejul/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PankajShejul/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/PankajShejul/leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/PankajShejul/leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/PankajShejul/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PankajShejul/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Memoization
 |  |
 | ------- |
