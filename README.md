@@ -238,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/PankajShejul/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/PankajShejul/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/PankajShejul/leetcode/tree/master/1732-find-the-highest-altitude) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/PankajShejul/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
