@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PankajShejul/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PankajShejul/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/PankajShejul/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/PankajShejul/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/PankajShejul/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PankajShejul/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PankajShejul/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/PankajShejul/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
