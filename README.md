@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/PankajShejul/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/PankajShejul/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/PankajShejul/leetcode/tree/master/0724-find-pivot-index) |
+| [0997-find-the-town-judge](https://github.com/PankajShejul/leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/PankajShejul/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/PankajShejul/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PankajShejul/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/PankajShejul/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PankajShejul/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PankajShejul/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0997-find-the-town-judge](https://github.com/PankajShejul/leetcode/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/PankajShejul/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PankajShejul/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PankajShejul/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/PankajShejul/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/PankajShejul/leetcode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/PankajShejul/leetcode/tree/master/0196-delete-duplicate-emails) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/PankajShejul/leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
