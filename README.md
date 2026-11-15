@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/PankajShejul/leetcode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/PankajShejul/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/PankajShejul/leetcode/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/PankajShejul/leetcode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/PankajShejul/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PankajShejul/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/PankajShejul/leetcode/tree/master/0198-house-robber) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/PankajShejul/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/PankajShejul/leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/PankajShejul/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/PankajShejul/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PankajShejul/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/PankajShejul/leetcode/tree/master/0198-house-robber) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/PankajShejul/leetcode/tree/master/0063-unique-paths-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PankajShejul/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Quicksort
 |  |
