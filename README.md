@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/PankajShejul/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/PankajShejul/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PankajShejul/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PankajShejul/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/PankajShejul/leetcode/tree/master/0198-house-robber) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PankajShejul/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/PankajShejul/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PankajShejul/leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/PankajShejul/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PankajShejul/leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/PankajShejul/leetcode/tree/master/0326-power-of-three) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PankajShejul/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1114-print-in-order](https://github.com/PankajShejul/leetcode/tree/master/1114-print-in-order) |
 | [1115-print-foobar-alternately](https://github.com/PankajShejul/leetcode/tree/master/1115-print-foobar-alternately) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/PankajShejul/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
