@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PankajShejul/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/PankajShejul/leetcode/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/PankajShejul/leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/PankajShejul/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/PankajShejul/leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/PankajShejul/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/PankajShejul/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/PankajShejul/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/PankajShejul/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/PankajShejul/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/PankajShejul/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/PankajShejul/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0303-range-sum-query-immutable](https://github.com/PankajShejul/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0706-design-hashmap](https://github.com/PankajShejul/leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
