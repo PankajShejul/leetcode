@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/PankajShejul/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/PankajShejul/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/PankajShejul/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/PankajShejul/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/PankajShejul/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0706-design-hashmap](https://github.com/PankajShejul/leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/PankajShejul/leetcode/tree/master/0724-find-pivot-index) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/PankajShejul/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PankajShejul/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0133-clone-graph](https://github.com/PankajShejul/leetcode/tree/master/0133-clone-graph) |
+| [0523-continuous-subarray-sum](https://github.com/PankajShejul/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0706-design-hashmap](https://github.com/PankajShejul/leetcode/tree/master/0706-design-hashmap) |
 | [0997-find-the-town-judge](https://github.com/PankajShejul/leetcode/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/PankajShejul/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/PankajShejul/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PankajShejul/leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/PankajShejul/leetcode/tree/master/0326-power-of-three) |
+| [0523-continuous-subarray-sum](https://github.com/PankajShejul/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PankajShejul/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/PankajShejul/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/PankajShejul/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/PankajShejul/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/PankajShejul/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/PankajShejul/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/PankajShejul/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -359,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PankajShejul/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/PankajShejul/leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
