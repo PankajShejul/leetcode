@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/PankajShejul/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/PankajShejul/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/PankajShejul/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/PankajShejul/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/PankajShejul/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0706-design-hashmap](https://github.com/PankajShejul/leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/PankajShejul/leetcode/tree/master/0724-find-pivot-index) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PankajShejul/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0133-clone-graph](https://github.com/PankajShejul/leetcode/tree/master/0133-clone-graph) |
 | [0523-continuous-subarray-sum](https://github.com/PankajShejul/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/PankajShejul/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/PankajShejul/leetcode/tree/master/0706-design-hashmap) |
 | [0997-find-the-town-judge](https://github.com/PankajShejul/leetcode/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/PankajShejul/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/PankajShejul/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/PankajShejul/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/PankajShejul/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/PankajShejul/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/PankajShejul/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/PankajShejul/leetcode/tree/master/1732-find-the-highest-altitude) |
